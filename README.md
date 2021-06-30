@@ -1,2 +1,2 @@
 # hello-worlds
-My first account for github desktop
+Just another repository
